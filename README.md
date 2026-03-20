@@ -1,12 +1,16 @@
 <div align="center">
 
-# Hey, I'm Bethsaida 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hi,%20I'm%20Bethsaida&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20in%20the%20making&descAlignY=58&descSize=20" />
 
-### Data Analyst in the making — turning data into decisions
+</div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=blueviolet&style=flat-square)](https://github.com/bethsaguillaume-pixel)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote-brightgreen?style=flat-square)](mailto:your@email.com)
+---
+
+<div align="center">
+
+Remote &nbsp;|&nbsp; Open to opportunities &nbsp;|&nbsp; Turning data into decisions
+
+[![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=6e40c9&style=flat-square&label=Profile+Views)](https://github.com/bethsaguillaume-pixel)
 
 </div>
 
@@ -14,13 +18,19 @@
 
 ### About me
 
-I'm a self-taught data analyst building a portfolio one project at a time.
-I'm drawn to the kind of analysis that answers real questions — not just runs queries.
+```sql
+SELECT *
+FROM analyst
+WHERE name      = 'Bethsaida'
+  AND status    = 'learning & building'
+  AND location  = 'Remote'
+  AND open_to   = 'opportunities';
+```
 
-- 🔍 Currently mastering **SQL** and working toward **Python**
-- 📊 Learning **Tableau** and **Power BI** for data visualization
-- 🌍 Based anywhere — I work remotely
-- 💬 Ask me about SQL, data analysis, or the job search grind
+- Currently mastering **SQL** — from basic queries to window functions
+- Building real-world projects with **Kaggle datasets**
+- Learning **Python**, **Tableau**, and **Power BI**
+- Goal: build a portfolio that speaks louder than a resume
 
 ---
 
@@ -31,16 +41,17 @@ I'm drawn to the kind of analysis that answers real questions — not just runs 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [🔍 Job Search Platform Analysis](./sql-data-analysis/job-search-analysis) | Analyzed 100k student records to find which platform delivers the best job outcomes | SQL |
+| # | Project | Description | Tools |
+|---|---------|-------------|-------|
+| 01 | [Job Search Platform Analysis](./sql-data-analysis/job-search-analysis) | Analyzed 100k student records to find which platform delivers the best outcomes for entry-level job seekers | SQL |
 
-*More projects coming soon.*
+*More projects in progress — updated weekly.*
 
 ---
 
@@ -48,9 +59,11 @@ I'm drawn to the kind of analysis that answers real questions — not just runs 
 
 <div align="center">
 
-![Bethsaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Bethsaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6e40c9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=tokyonight&hide_border=true&title_color=6e40c9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bethsaguillaume-pixel&theme=tokyonight&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)
 
 </div>
 
@@ -68,5 +81,5 @@ I'm drawn to the kind of analysis that answers real questions — not just runs 
 ---
 
 <div align="center">
-<sub>Updated regularly — this portfolio grows every week 🚀</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" />
 </div>
