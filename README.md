@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Welcome%20to%20Bethsaida's%20GitHub&fontSize=32&fontColor=ffffff&fontAlignY=50" />
+# Bethsaida Guillaume
 
 ---
 
@@ -75,6 +75,5 @@ Open to opportunities
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=grey&style=flat-square&label=Profile+Views)](https://github.com/bethsaguillaume-pixel)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 
 </div>
