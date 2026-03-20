@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hi,%20I'm%20Bethsaida&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20in%20the%20making&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bethsaida%20Guillaume&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Building%20with%20Data&descAlignY=58&descSize=18&animation=fadeIn" />
 
-</div>
-
----
-
-<div align="center">
-
-Remote &nbsp;|&nbsp; Open to opportunities &nbsp;|&nbsp; Turning data into decisions
-
-[![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=6e40c9&style=flat-square&label=Profile+Views)](https://github.com/bethsaguillaume-pixel)
+[![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/bethsaguillaume-pixel)
 
 </div>
 
@@ -21,7 +13,7 @@ Remote &nbsp;|&nbsp; Open to opportunities &nbsp;|&nbsp; Turning data into decis
 ```sql
 SELECT *
 FROM analyst
-WHERE name      = 'Bethsaida'
+WHERE name      = 'Bethsaida Guillaume'
   AND status    = 'learning & building'
   AND location  = 'Remote'
   AND open_to   = 'opportunities';
@@ -34,7 +26,7 @@ WHERE name      = 'Bethsaida'
 
 ---
 
-### Tech stack
+### Languages & tools
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -42,6 +34,20 @@ WHERE name      = 'Bethsaida'
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=bethsaguillaume-pixel&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
 
 ---
 
@@ -55,31 +61,17 @@ WHERE name      = 'Bethsaida'
 
 ---
 
-### GitHub stats
+### Follow me on
 
 <div align="center">
 
-![Bethsaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6e40c9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=tokyonight&hide_border=true&title_color=6e40c9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bethsaguillaume-pixel&theme=tokyonight&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)
-
-</div>
-
----
-
-### Let's connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/bethsaguillaume%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bethsaguillaume@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Bethsaida%20Guillaume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethsa%C3%AFda-guillaume-ba53a8277)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
