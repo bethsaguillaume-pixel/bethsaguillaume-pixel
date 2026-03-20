@@ -1,72 +1,80 @@
 <div align="center">
 
-# Hey, I'm Bethsaida 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Welcome%20to%20Bethsaida's%20GitHub&fontSize=32&fontColor=ffffff&fontAlignY=50" />
 
-### Data Analyst in the making — turning data into decisions
+---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=blueviolet&style=flat-square)](https://github.com/bethsaguillaume-pixel)
+### Connect with me
+
+[![Email](https://img.shields.io/badge/EMAIL-333?style=flat-square&logo=gmail&logoColor=white)](mailto:bethsaguillaume@gmail.com)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote-brightgreen?style=flat-square)](mailto:your@email.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethsa%C3%AFda-guillaume-ba53a8277)
 
 ---
 
 ### About me
 
-I'm a self-taught data analyst building a portfolio one project at a time.
-I'm drawn to the kind of analysis that answers real questions — not just runs queries.
+Hello, I'm **Bethsaida Guillaume** — a self-taught Data Analyst focused on turning raw datasets into clear, actionable insights.
+I value clean analysis, honest findings, and building projects that mean something.
 
-- 🔍 Currently mastering **SQL** and working toward **Python**
-- 📊 Learning **Tableau** and **Power BI** for data visualization
-- 🌍 Based anywhere — I work remotely
-- 💬 Ask me about SQL, data analysis, or the job search grind
+Data Analyst in the making
+SQL · Python · Excel · Tableau · Power BI
+Remote — available worldwide
+Open to opportunities
 
 ---
 
-### Tech stack
+### Technologies
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Core skills**
+
+![SQL](https://img.shields.io/badge/SQL-333?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-333?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white)
+
+**Learning**
+
+![Tableau](https://img.shields.io/badge/Tableau-333?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-333?style=flat-square&logo=powerbi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-333?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [🔍 Job Search Platform Analysis](./sql-data-analysis/job-search-analysis) | Analyzed 100k student records to find which platform delivers the best job outcomes | SQL |
+| # | Project | Description | Tools |
+|---|---------|-------------|-------|
+| 01 | [Job Search Platform Analysis](./sql-data-analysis/job-search-analysis) | Analyzed 100k student records to find which platform delivers the best outcomes for entry-level job seekers | SQL |
 
-*More projects coming soon.*
-
----
-
-### GitHub stats
-
-<div align="center">
-
-![Bethsaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+*More projects in progress — updated weekly.*
 
 ---
 
-### Let's connect
+### Statistics
 
-<div align="center">
+**Bethsaida's GitHub Stats**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 
 ---
 
-<div align="center">
-<sub>Updated regularly — this portfolio grows every week 🚀</sub>
+**Contribution Streak**
+
+<img src="https://streak-stats.demolab.com?user=bethsaguillaume-pixel&theme=github-dark&hide_border=true" />
+
+---
+
+**Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bethsaguillaume-pixel&theme=github-compact&hide_border=true&area=true" />
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=bethsaguillaume-pixel&color=grey&style=flat-square&label=Profile+Views)](https://github.com/bethsaguillaume-pixel)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+
 </div>
