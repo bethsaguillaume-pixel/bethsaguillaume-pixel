@@ -6,9 +6,9 @@
 
 ### Connect with me
 
-[![Email](https://img.shields.io/badge/EMAIL-333?style=flat-square&logo=gmail&logoColor=white)](mailto:bethsaguillaume@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bethsaguillaume@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethsa%C3%AFda-guillaume-ba53a8277)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethsa%C3%AFda-guillaume-ba53a8277)
 
 ---
 
@@ -28,16 +28,16 @@ Open to opportunities
 
 **Core skills**
 
-![SQL](https://img.shields.io/badge/SQL-333?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-333?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Learning**
 
-![Tableau](https://img.shields.io/badge/Tableau-333?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-333?style=flat-square&logo=powerbi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-333?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -55,15 +55,15 @@ Open to opportunities
 
 **Bethsaida's GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bethsaguillaume-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethsaguillaume-pixel&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa" height="160"/>
 
 ---
 
 **Contribution Streak**
 
-<img src="https://streak-stats.demolab.com?user=bethsaguillaume-pixel&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=bethsaguillaume-pixel&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
 
 ---
 
