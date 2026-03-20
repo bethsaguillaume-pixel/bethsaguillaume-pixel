@@ -45,7 +45,7 @@ Open to opportunities
 
 | # | Project | Description | Tools |
 |---|---------|-------------|-------|
-| 01 | [Job Search Platform Analysis](./sql-data-analysis/job-search-analysis) | Analyzed 100k student records to find which platform delivers the best outcomes for entry-level job seekers | SQL |
+| 01 | [Job Search Platform Analysis](https://github.com/bethsaguillaume-pixel/sql-data-analysis/tree/main/job-search-analysis/job-search-analysis) | Analyzed 100k student records to find which platform delivers the best outcomes for entry-level job seekers | SQL |
 
 *More projects in progress — updated weekly.*
 
