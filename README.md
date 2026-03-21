@@ -20,7 +20,7 @@ I value clean analysis, honest findings, and building projects that mean somethi
 Data Analyst in the making
 SQL · Python · Excel · Tableau · Power BI
 Remote — available worldwide
-Open to opportunities
+Open to opportunities !
 
 ---
 
